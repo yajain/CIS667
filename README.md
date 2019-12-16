@@ -1,0 +1,2 @@
+# CIS667
+OthelloBot
