@@ -14,9 +14,13 @@ Run game.py.
 
 How to play the game (ML version):-
 When the game starts enter the name of the spot where you want to put your player. The possible legal moves will be represented as a ‘x’ in the grid. You need to enter the position of your desired position amongst the legal moves. You can type the following things as well:-
+
 ’new’		Start a new game.
+
 ‘x’		Exchange player, enter this at start to play white.
+
 ‘exit’	quit the game.
+
 ‘help’	shows the above mentioned options
 
 How to view the results:-
