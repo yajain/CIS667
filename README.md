@@ -8,14 +8,15 @@ First make sure you have downloaded theano, numba, python3, numpy. You can use p
 Make sure you save all the py files in one folder.
 Go to that folder using terminal.
 Run omegabot.py, optimize.py, othello.py (in that order).
-Run train.py
-Run game.py
+
+Run train.py.
+Run game.py.
 
 How to play the game (ML version):-
 When the game starts enter the name of the spot where you want to put your player. The possible legal moves will be represented as a ‘x’ in the grid. You need to enter the position of your desired position amongst the legal moves. You can type the following things as well:-
-’new’		Start a new game
+’new’		Start a new game.
 ‘x’		Exchange player, enter this at start to play white.
-‘exit’	quit the game
+‘exit’	quit the game.
 ‘help’	shows the above mentioned options
 
 How to view the results:-
