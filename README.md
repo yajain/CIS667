@@ -22,3 +22,8 @@ How to view the results
 Visualizations(1). Make sure the data file is in the same folder while running. This file is the graphs generated for different learning rates for each team member. To run this we need matplotlib, numpy, itertools, re, glob
 
 Command for running these files on terminal: python3 <filename.py>
+
+
+Note: The codes have been inpsired by:-
+1. https://github.com/johnafish/othello
+2. https://github.com/khaotik/OmegaOthello
