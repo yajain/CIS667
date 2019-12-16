@@ -19,7 +19,7 @@ When the game starts enter the name of the spot where you want to put your playe
 ‘help’	shows the above mentioned options
 
 How to view the results:-
-visualizations(1). Make sure the data file is in the same folder while running. This file is the graphs generated for different learning rates for each team member. To run this we need matplotlib, numpy, itertools, re, glob
+visualizations(1). Make sure the data file is in the same folder while running. This file is the graphs generated for different learning rates for each team member. To run this we need matplotlib, numpy, itertools, re, glob. The data for this is in the file: CNN_iterations.txt
 
 Command for running these files on terminal: python3 <filename.py>
 
