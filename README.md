@@ -15,13 +15,13 @@ Run game.py.
 How to play the game (ML version):-
 When the game starts enter the name of the spot where you want to put your player. The possible legal moves will be represented as a ‘x’ in the grid. You need to enter the position of your desired position amongst the legal moves. You can type the following things as well:-
 
-’new’		Start a new game.
+’new’	-	Start a new game.
 
-‘x’		Exchange player, enter this at start to play white.
+‘x’	-	Exchange player, enter this at start to play white.
 
-‘exit’	quit the game.
+‘exit’ -	quit the game.
 
-‘help’	shows the above mentioned options
+‘help’ -	shows the above mentioned options
 
 How to view the results:-
 visualizations(1). Make sure the data file is in the same folder while running. This file is the graphs generated for different learning rates for each team member. To run this we need matplotlib, numpy, itertools, re, glob. The data for this is in the file: CNN_iterations.txt
